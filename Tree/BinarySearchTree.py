@@ -112,10 +112,10 @@ arvre.insere(Node(14))
 arvre.insere(Node(16))
 arvre.insere(Node(1))
 arvre.insere(Node(2))
-print(arvre.getAltura(arvre.raiz))
 
-""""print(arvre.inOrder())     
+
+print(arvre.inOrder())     
 print(arvre.preOrder())  
 print(arvre.posOrder())     
 arvre.largura()
-arvre.larguraAoContrario()"""
+arvre.larguraAoContrario()
